@@ -1,0 +1,215 @@
+{
+    "players": [
+        {
+            "name": "Lionel Messi",
+            "age": 36,
+            "nationality": "Argentinien",
+            "position": "Stürmer",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "name": "Cristiano Ronaldo",
+            "age": 39,
+            "nationality": "Portugal",
+            "position": "Stürmer",
+            "club": "Al-Nassr"
+        },
+        {
+            "name": "Kevin De Bruyne",
+            "age": 32,
+            "nationality": "Belgien",
+            "position": "Mittelfeld",
+            "club": "Manchester City"
+        },
+        {
+            "name": "Kylian Mbappé",
+            "age": 25,
+            "nationality": "Frankreich",
+            "position": "Stürmer",
+            "club": "Paris Saint-Germain"
+        },
+        {
+            "name": "Neymar Jr.",
+            "age": 32,
+            "nationality": "Brasilien",
+            "position": "Stürmer",
+            "club": "Al-Hilal"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "age": 35,
+            "nationality": "Polen",
+            "position": "Stürmer",
+            "club": "FC Barcelona"
+        },
+        {
+            "name": "Mohamed Salah",
+            "age": 31,
+            "nationality": "Ägypten",
+            "position": "Stürmer",
+            "club": "Liverpool"
+        },
+        {
+            "name": "Sadio Mané",
+            "age": 32,
+            "nationality": "Senegal",
+            "position": "Stürmer",
+            "club": "Bayern München"
+        },
+        {
+            "name": "Virgil van Dijk",
+            "age": 32,
+            "nationality": "Niederlande",
+            "position": "Verteidiger",
+            "club": "Liverpool"
+        },
+        {
+            "name": "Luka Modrić",
+            "age": 38,
+            "nationality": "Kroatien",
+            "position": "Mittelfeld",
+            "club": "Real Madrid"
+        },
+        {
+            "name": "Sergio Ramos",
+            "age": 37,
+            "nationality": "Spanien",
+            "position": "Verteidiger",
+            "club": "Sevilla"
+        },
+        {
+            "name": "Harry Kane",
+            "age": 30,
+            "nationality": "England",
+            "position": "Stürmer",
+            "club": "Tottenham Hotspur"
+        },
+        {
+            "name": "Eden Hazard",
+            "age": 33,
+            "nationality": "Belgien",
+            "position": "Mittelfeld",
+            "club": "Real Madrid"
+        },
+        {
+            "name": "Erling Haaland",
+            "age": 23,
+            "nationality": "Norwegen",
+            "position": "Stürmer",
+            "club": "Manchester City"
+        },
+        {
+            "name": "Toni Kroos",
+            "age": 34,
+            "nationality": "Deutschland",
+            "position": "Mittelfeld",
+            "club": "Real Madrid"
+        },
+        {
+            "name": "Gerard Piqué",
+            "age": 37,
+            "nationality": "Spanien",
+            "position": "Verteidiger",
+            "club": "FC Barcelona"
+        },
+        {
+            "name": "Luis Suárez",
+            "age": 37,
+            "nationality": "Uruguay",
+            "position": "Stürmer",
+            "club": "Gremio"
+        },
+        {
+            "name": "Paul Pogba",
+            "age": 31,
+            "nationality": "Frankreich",
+            "position": "Mittelfeld",
+            "club": "Juventus"
+        },
+        {
+            "name": "Gareth Bale",
+            "age": 34,
+            "nationality": "Wales",
+            "position": "Stürmer",
+            "club": "Retired"
+        },
+        {
+            "name": "Karim Benzema",
+            "age": 36,
+            "nationality": "Frankreich",
+            "position": "Stürmer",
+            "club": "Al-Ittihad"
+        },
+        {
+            "name": "Manuel Neuer",
+            "age": 38,
+            "nationality": "Deutschland",
+            "position": "Torwart",
+            "club": "Bayern München"
+        },
+        {
+            "name": "Alisson Becker",
+            "age": 31,
+            "nationality": "Brasilien",
+            "position": "Torwart",
+            "club": "Liverpool"
+        },
+        {
+            "name": "Jan Oblak",
+            "age": 31,
+            "nationality": "Slowenien",
+            "position": "Torwart",
+            "club": "Atlético Madrid"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "age": 29,
+            "nationality": "Deutschland",
+            "position": "Mittelfeld",
+            "club": "Bayern München"
+        },
+        {
+            "name": "Raheem Sterling",
+            "age": 29,
+            "nationality": "England",
+            "position": "Stürmer",
+            "club": "Chelsea"
+        },
+        {
+            "name": "Thomas Müller",
+            "age": 34,
+            "nationality": "Deutschland",
+            "position": "Mittelfeld",
+            "club": "Bayern München"
+        },
+        {
+            "name": "Frenkie de Jong",
+            "age": 27,
+            "nationality": "Niederlande",
+            "position": "Mittelfeld",
+            "club": "FC Barcelona"
+        },
+        {
+            "name": "Trent Alexander-Arnold",
+            "age": 25,
+            "nationality": "England",
+            "position": "Verteidiger",
+            "club": "Liverpool"
+        },
+        {
+            "name": "Sergio Agüero",
+            "age": 35,
+            "nationality": "Argentinien",
+            "position": "Stürmer",
+            "club": "Retired"
+        },
+        {
+            "name": "Marc-André ter Stegen",
+            "age": 32,
+            "nationality": "Deutschland",
+            "position": "Torwart",
+            "club": "FC Barcelona"
+        }
+    ]
+  }
+  
